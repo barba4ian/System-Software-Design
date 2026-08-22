@@ -17,6 +17,7 @@
 | [0146-lru-cache](https://github.com/barba4ian/System-Software-Design/tree/main/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/barba4ian/System-Software-Design/tree/main/0460-lfu-cache/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/barba4ian/System-Software-Design/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1032-stream-of-characters](https://github.com/barba4ian/System-Software-Design/tree/main/1032-stream-of-characters/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +43,21 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/barba4ian/System-Software-Design/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1032-stream-of-characters](https://github.com/barba4ian/System-Software-Design/tree/main/1032-stream-of-characters/) | Hard |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1032-stream-of-characters](https://github.com/barba4ian/System-Software-Design/tree/main/1032-stream-of-characters/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1032-stream-of-characters](https://github.com/barba4ian/System-Software-Design/tree/main/1032-stream-of-characters/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1032-stream-of-characters](https://github.com/barba4ian/System-Software-Design/tree/main/1032-stream-of-characters/) | Hard |
+## Aho–Corasick Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1032-stream-of-characters](https://github.com/barba4ian/System-Software-Design/tree/main/1032-stream-of-characters/) | Hard |
 <!---LeetCode Topics End-->
